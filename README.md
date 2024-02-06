@@ -1,5 +1,5 @@
 # AI-Based-Product-Recommendaton-
-ABOUT 
+# ABOUT 
 
 Product Recommendation System for e-commerce businesses
 A well developed recommendation system will help businesses improve their shopper's experience on website and result in better customer acquisition and retention.
@@ -7,7 +7,7 @@ A well developed recommendation system will help businesses improve their shoppe
 The recommendation system, I have designed below is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to when he/she makes repeat purchases.
 I have designed a recommendation engine using Colloborative Filtering Algorithm.
 
-INTRODUCTION :
+# INTRODUCTION :
 
 The Product Recommendation System using AIML report delves into the innovative integration of Artificial Intelligence Markup Language (AIML) in the domain of personalized product recommendations.
  In an era marked by information overload and abundant choices, this system aims to enhance user experiences by intelligently suggesting products that align with individual preferences.
@@ -16,7 +16,7 @@ The Product Recommendation System using AIML report delves into the innovative i
 This report explores the conceptual foundation, technical architecture, and practical implications of employing AIML to craft a cutting-edge product recommendation solution.
 
 
-HOW TO RUN :
+# HOW TO RUN :
 
 Step 1: Install the required libraries.
 
@@ -30,7 +30,7 @@ Step 5: Run the app.py
 
 Step 6: Open http://127.0.0.1:5000/
 
-OUTPUT :
+# OUTPUT :
 
 ![image](https://github.com/VishnuHarish27/AI-Based-Product-Recommendaton-/assets/138471302/e39e3532-d648-4b1d-b779-2dda3cb1008a)
 
@@ -38,7 +38,7 @@ OUTPUT :
 
 ![image](https://github.com/VishnuHarish27/AI-Based-Product-Recommendaton-/assets/138471302/95376c1d-60f0-4f11-b593-21dc918e3be0)
 
-CONCLUSION :
+# CONCLUSION :
 
 The development of an eCommerce product recommendation system utilizing Singular Value Decomposition (SVD) presents a powerful tool to enhance the user experience and drive business growth. 
 By leveraging SVD, this system effectively captures and analyzes user-product interaction data, allowing it to provide personalized product recommendations to users. 
